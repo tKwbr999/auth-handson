@@ -5,3 +5,4 @@
 - Code モードに切り替え
 - package.json を作成し、必要なライブラリをインストール
 - 基本的なディレクトリ構造を作成 (src/, src/ui, src/application, src/domain, src/infrastructure)
+- Added a test entry.
