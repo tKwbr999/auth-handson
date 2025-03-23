@@ -10,6 +10,7 @@
 *   **タスク4（10分）：** ログイン、ログアウト、トークン処理など、認証状態がどのように管理されているかを理解するために、`src/contexts/AuthContext.tsx`を読みます。
 *   **タスク5（10分）：** APIリクエストがどのように行われ、認証関連のエンドポイントがどのように処理されるかを理解するために、`src/api/apiClient.ts`と`src/api/authApi.ts`を確認します。
 *   **タスク6（10分）：** トークンがどのように保存および取得されるかを理解するために、`src/lib/auth/tokenStorage.ts`を調べます。
+*   **タスク7（10分）：** `architecture-md.md`, `implementation-md.md`, and `datamodel-md.md` に基づいて、必要なコードをプロジェクトに作成します。
 
 ## フェーズ2：実装手順（約120分）
 
