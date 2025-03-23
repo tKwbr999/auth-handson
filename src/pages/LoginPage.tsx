@@ -5,7 +5,7 @@ import { useAuth } from '../contexts/AuthContext';
 import { LoginFormData } from '../types';
 import { loginSchema } from '../lib/validation/schemas';
 import { zodResolver } from '@hookform/resolvers/zod';
-import { LoadingSpinner } from '../components/ui/LoadingSpinner';
+import  LoadingSpinner from '../components/ui/LoadingSpinner';
 
 const LoginPage: React.FC = () => {
   const { login, loading, error, clearError, socialLogin } = useAuth();
